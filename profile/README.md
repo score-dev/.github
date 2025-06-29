@@ -1,11 +1,18 @@
-## 스코어👟
+# 스코어 <img src="https://github.com/user-attachments/assets/92c2a805-0b9d-4725-bd13-356f9630f937" align=left width=100>
+> 기초 체력이 떨어지는 중・고등학생을 위한 운동습관 형성 서비스, 스코어👟
+
+<br>
 
 <aside>
-💡 About score
+    
+### 💡 About score
 
+![스코어 대표 섬네일](https://github.com/user-attachments/assets/43f796dd-97cf-4608-8f07-8c0d78b5c916)
+    
 **스코어**는 운동 부족으로 인해 기초 체력이 떨어지는 대한민국의 **중•고등학생들을 위해 친구들과 함께 운동을 기록하며 협력**하고 **랭킹을 통해 경쟁**하면서 **기초 체력의 증진을 돕는 앱** **서비스**입니다. 
 
 </aside>
+
 
 - **서비스 정의**
     - 스코어 (SCORE)는 **s(tudent’s) core와 score**라는 중의적인 의미로, 운동 부족으로 인해 기초 체력이 떨어지는 **대한민국의 중·고등학생들의 운동 습관 형성 어플리케이션 서비스**입니다.
@@ -16,14 +23,10 @@
 - **서비스 기획 배경 및 기능 소개**
     - **중·고등학생들이 조금씩이라도 ‘꾸준히’ 운동을 하게 하는 것**이라는 서비스 미션 아래, 중고등학생 10명을 대상으로 하는 유저 리서치를 통해 ‘친구’라는 존재가 청소년들의 삶에 큰 영향을 끼치고 있고, 강한 동기부여 요소가 될 수 있음을 파악했습니다.
     - 따라서 스코어는 **‘친구’라는 존재와 함께 경쟁 혹은 협력**을 통해 운동에 대한 **강한 동기 부여**를 받을 수 있게 기획되었습니다. 스코어는 그룹을 만들어 운동하며 실시간으로 위치를 확인하고, 기록을 공유해 응원을 주고 받으며, 학교 내 다른 그룹과 경쟁을 할 수 있습니다.
+ 
+<br>
 
-<!--
+### 📍 Features
+![image](https://github.com/user-attachments/assets/660170af-6b4f-40f4-82e4-b83f38ba3660)
+![image](https://github.com/user-attachments/assets/3f7dd771-42dd-4446-891c-7acfdf1dd0aa)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
